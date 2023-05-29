@@ -1,1 +1,1 @@
-A simmple drum/piano machine created using react js
+A simple drum/piano machine created using react js
